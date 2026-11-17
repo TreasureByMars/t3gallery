@@ -125,6 +125,9 @@ export default function HomePage() {
 
         </body>
 
+        <div>
+          <Link href="/layer02">第2層</Link>
+        </div>
     </main>
 
   );
